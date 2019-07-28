@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## WHAT WE OFFER
+WHAT WE OFFER
 
 * Data Entry
 * GST Registration
