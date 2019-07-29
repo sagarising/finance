@@ -9,5 +9,5 @@ permalink: /contact-us/
 
 * Phone: +91-8169496943, +91-9987188245
 
-* Email: rakesh@gmail.com
+* Email: aasolution79@gmail.com
 * Address: Navi Mumbai, Mumbai

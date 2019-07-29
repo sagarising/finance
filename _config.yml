@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Affinity Accounts Solution
-email: rakesh@gmail.com
+email: aasolution79@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are serving you as always
 baseurl: "/finance" # the subpath of your site, e.g. /blog
