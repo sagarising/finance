@@ -4,27 +4,30 @@
 
 layout: home
 ---
-WHAT WE OFFER
+## WHAT WE OFFER
 
-* Data Entry
-* GST Registration
-* Filling of GSTR-1
-* GSTR-2 Mismatch Detail
-* GSTR-3B Filling
-* Old Data Correction
-* GSTR-9
-* Certificate of L.E.I
-* Certificate of Pollution
-* Income Tax Return
-* Income Tax Security
-* TDS Registration on Traces 
-* TDS Data Entry
-* TDS Return File
-* HR Solution
-* DIN Apply
-* D.S.C Prepare
-* Tally Customization Work
-* Tally Setup
-* TAN Application
-* TAN Setup
-* Pay Roll Solution 
+| Data Entry | GST Registration |
+| Filling of GSTR-1 | GSTR-3B Filling |
+| GSTR-2 Mismatch Detail | Old Data Correction |
+| GSTR-9 |  Pay Roll Solution  |
+| Certificate of L.E.I | Certificate of Pollution |
+| Income Tax Return | Income Tax Security |
+| TDS Registration on Traces  | TDS Data Entry |
+| TDS Return File | HR Solution |
+| DIN Apply | D.S.C Prepare |
+| Tally Customization Work | Tally Setup |
+| TAN Application | TAN Setup |
+
+
+
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
