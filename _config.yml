@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Affinity Accounts Solution
-email: aasolution79@gmail.com
+email: info@tnac.net
 description: >- # this means to ignore newlines until "baseurl:"
   We are serving you as always
 url: "tnac.net" # the base hostname & protocol for your site, e.g. http://example.com
