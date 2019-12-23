@@ -7,7 +7,7 @@ layout: home
 
 {% include carousel.html height="30" unit="%" duration="1" %}
 
-**WHAT WE OFFER**
+**Our Services**
 
 | Data Entry | GST Registration | TDS Return File |
 | Filling of GSTR-1 | GSTR-3B Filling | HR Solution |
