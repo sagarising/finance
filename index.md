@@ -4,6 +4,7 @@
 
 layout: home
 ---
+{% include carousel.html height="30" unit="%" duration="1" %}
 WHAT WE OFFER
 
 | Data Entry | GST Registration | TDS Return File |
