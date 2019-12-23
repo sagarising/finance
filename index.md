@@ -11,7 +11,7 @@ WHAT WE OFFER
 | GSTR-2 Mismatch Detail | Old Data Correction |
 | GSTR-9 |  Pay Roll Solution  |
 | Certificate of L.E.I | Certificate of Pollution |
-| Income Tax Return | Income Tax Security |
+| Income Tax Return | Income Tax Scrutiny |
 | TDS Registration on Traces  | TDS Data Entry |
 | TDS Return File | HR Solution |
 | DIN Apply | D.S.C Prepare |
