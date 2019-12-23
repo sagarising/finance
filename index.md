@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## WHAT WE OFFER
+WHAT WE OFFER
 
 | Data Entry | GST Registration |
 | Filling of GSTR-1 | GSTR-3B Filling |
