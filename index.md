@@ -4,9 +4,10 @@
 
 layout: home
 ---
+
 {% include carousel.html height="30" unit="%" duration="1" %}
----
-# WHAT WE OFFER
+
+**WHAT WE OFFER**
 
 | Data Entry | GST Registration | TDS Return File |
 | Filling of GSTR-1 | GSTR-3B Filling | HR Solution |
@@ -17,7 +18,7 @@ layout: home
 | Tally Setup | TAN Application | TAN Setup |
 
 ---
-# Contact Us
+**Contact Us**
 
 |-------+-------+---------|
 | Phone | Email | Address |
@@ -25,6 +26,9 @@ layout: home
 | +91-8169496943, +91-9987188245 | {{ site.email }} | Navi Mumbai, Mumbai |
 
 
+<div class="resp-container">
+    <iframe class="resp-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSe523nyNMC_7bska5Dkn8yagQ_qKmlwbGdL4vhL1xgP4pdN6A/viewform?embedded=true" allowfullscreen></iframe>
+</div>
 
 
 
