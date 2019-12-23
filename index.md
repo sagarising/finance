@@ -26,11 +26,6 @@ layout: home
 | +91-8169496943, +91-9987188245 | {{ site.email }} | Navi Mumbai, Mumbai |
 
 
-<div class="resp-container">
-    <iframe class="resp-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSe523nyNMC_7bska5Dkn8yagQ_qKmlwbGdL4vhL1xgP4pdN6A/viewform?embedded=true" allowfullscreen></iframe>
-</div>
-
-
 
 
  
