@@ -20,10 +20,10 @@ layout: home
 ---
 **Contact Us**
 
-|-------+-------+---------|
-| Phone | Email | Address |
-|-------+-------+---------|
-| +91-8169496943, +91-9987188245 | {{ site.email }} | Navi Mumbai, Mumbai |
+|----------------+-------+---------|
+| Phone/WhatsApp | Email | Address |
+|----------------+-------+---------|
+| {{ site.phone }}| [{{ site.email }}](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team){:target="_blank"} | 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209 |
 
 
 
