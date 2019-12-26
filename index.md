@@ -23,7 +23,7 @@ layout: home
 |----------------+-------+---------|
 | Phone/WhatsApp | Email | Address |
 |----------------+-------+---------|
-| {{ site.phone }}| [{{ site.email }}](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team){:target="_blank"} | 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209 |
+| {{ site.phone }} [Call](tel:{{site.phone}}) [WhatsApp](https://wa.me/{{ site.phone | remove: "+" | remove: "-"}}) | [{{ site.email }}](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team){:target="_blank"} | 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209 |
 
 
 
