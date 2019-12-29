@@ -19,9 +19,6 @@ url: "https://tnac.net" # the base hostname & protocol for your site, e.g. http:
 email: info@tnac.net
 phone: +91-913-686-8654
 address: 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209
-address_map_link: https://goo.gl/maps/cgbkP6NtcSsDFomY6
-email_link: https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team
-
 
 # Build settings
 markdown: kramdown
