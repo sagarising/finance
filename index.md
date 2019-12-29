@@ -24,11 +24,7 @@ whatsapp_text: Hey there. I am inquiring about your tax and audit service.
 |----------------+-------+---------|
 | Phone/WhatsApp | Email | Address |
 |----------------+-------+---------|
-| {{ site.phone }} [Call](tel:{{site.phone}}) [WhatsApp](https://wa.me/{{ site.phone | remove: "+" | remove: "-"}}?text={{page.whatsapp_text}}) | [{{ site.email }}](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team){:target="_blank"} | 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209 |
-
-
-
-
+| {{ site.phone }} [Call](tel:{{site.phone}}) [WhatsApp](https://wa.me/{{ site.phone | remove: "+" | remove: "-"}}?text={{page.whatsapp_text}}) | [{{ site.email }}](https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}&su=Query for&body=Hello Team){:target="_blank"} | [{{site.address}}](https://goo.gl/maps/cgbkP6NtcSsDFomY6){:target="_blank"} |
  
  
   

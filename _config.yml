@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Affinity Accounts Solution
-email: info@tnac.net
-phone: +91-913-686-8654
 description: Tax and Data Audit and Tally customisation
 url: "https://tnac.net" # the base hostname & protocol for your site, e.g. http://example.com
-
+email: info@tnac.net
+phone: +91-913-686-8654
+address: 701, Juhi Residency, Plot No 5,6,7, Sector 5, Kamothe, Navi Mumbai -410209
 
 # Build settings
 markdown: kramdown
