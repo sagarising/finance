@@ -17,7 +17,7 @@ title: Affinity Accounts Solution
 email: info@tnac.net
 phone: +91-913-686-8654
 description: Tax and Data Audit and Tally customisation
-url: "tnac.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tnac.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
